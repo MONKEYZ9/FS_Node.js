@@ -1,3 +1,6 @@
+/**
+ * http://usejsdoc.org/
+ */
 var testFolder = './data';
 var fs = require('fs');
  
